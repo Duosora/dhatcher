@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dhatcher/static/css/main.1a85c1ba.chunk.css",
+    "main.js": "/dhatcher/static/js/main.8e1c9629.chunk.js",
+    "main.js.map": "/dhatcher/static/js/main.8e1c9629.chunk.js.map",
+    "runtime-main.js": "/dhatcher/static/js/runtime-main.4e50ad71.js",
+    "runtime-main.js.map": "/dhatcher/static/js/runtime-main.4e50ad71.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/dhatcher/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.75040616.chunk.js": "/dhatcher/static/js/2.75040616.chunk.js",
+    "static/js/2.75040616.chunk.js.map": "/dhatcher/static/js/2.75040616.chunk.js.map",
+    "index.html": "/dhatcher/index.html",
+    "precache-manifest.1531c20edebc2734d17e8277ca30f0ec.js": "/dhatcher/precache-manifest.1531c20edebc2734d17e8277ca30f0ec.js",
+    "service-worker.js": "/dhatcher/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/dhatcher/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1a85c1ba.chunk.css.map": "/dhatcher/static/css/main.1a85c1ba.chunk.css.map",
+    "static/js/2.75040616.chunk.js.LICENSE.txt": "/dhatcher/static/js/2.75040616.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e50ad71.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.75040616.chunk.js",
+    "static/css/main.1a85c1ba.chunk.css",
+    "static/js/main.8e1c9629.chunk.js"
+  ]
+}
